@@ -1,5 +1,5 @@
 # Install Next-Events with
 
-'''Bash
+```bash
 Git clone https://github.com/qanastek/Next-Events.git
-'''
+```
