@@ -1,4 +1,6 @@
-# Install Next-Events with
+# Next Events
+
+## Install Next Events with
 
 ```bash
 Git clone https://github.com/qanastek/Next-Events.git
