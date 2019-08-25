@@ -33,3 +33,10 @@ Mainlly built with **JavaScript** (For the entire plugin) and **React** (For the
 ## More infos about my choice to run it on 5.0+
 
 This plugin was build for WorPress 5.0+ because I want to make it as intuitive as I can for the mainstream wordpress users who can be very fastlly lost and make mistakes with shortcode, etc ...
+
+## Pictures
+
+![The calendar](demo_pictures/userFrontEnd.png)
+![The event page](demo_pictures/userFrontEnd2.png)
+![Admin panel list](demo_pictures/adminFrontEnd1.png)
+![Admin panel creation](demo_pictures/adminFrontEnd2.png)
