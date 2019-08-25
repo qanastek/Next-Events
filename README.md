@@ -36,7 +36,17 @@ This plugin was build for WorPress 5.0+ because I want to make it as intuitive a
 
 ## Pictures
 
+### The calendar
+
 ![The calendar](demo_pictures/userFrontEnd.png)
+
+### The event page
 ![The event page](demo_pictures/userFrontEnd2.png)
+
+### The admin panel events list
+
 ![Admin panel list](demo_pictures/adminFrontEnd1.png)
+
+### The admin panel event creation
+
 ![Admin panel creation](demo_pictures/adminFrontEnd2.png)
