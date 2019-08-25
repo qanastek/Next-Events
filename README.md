@@ -36,9 +36,7 @@ This plugin was build for WorPress 5.0+ because I want to make it as intuitive a
 
 ## Pictures
 
-### The calendar
-
-#### Single and multiple days events
+### The calendar (Single and multiple days events)
 
 ![The calendar](demo_pictures/userFrontEnd.png)
 
