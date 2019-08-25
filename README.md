@@ -26,8 +26,10 @@ Git clone https://github.com/qanastek/Next-Events.git
 1) Go to your administrator panel
 2) Enable the plugin inside the plugins section
 
-## How to git clone ?
+## Technical informations
 
-```bash
-Git clone https://github.com/qanastek/Next-Events.git
-```
+Mainlly built with **JavaScript** (For the entire plugin) and **React** (For the WordPress Block Editor side)
+
+## More infos about my choice to run it on 5.0+
+
+This plugin was build for WorPress 5.0+ because I want to make it as intuitive as I can for the mainstream wordpress users who can be very fastlly lost and make mistakes with shortcode, etc ...
